@@ -1,0 +1,40 @@
+#main-section{
+    width: auto;
+    background-color: #f2f2f2;
+    color:cadetblue;
+    border-radius: 50px;
+    font-size: x-large;
+}
+#heading{
+    margin:20px;
+}
+.element-alignment1{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.amount{
+   
+    width:150px;
+   
+    margin-bottom:20px;
+    margin-left: 20px;
+}
+.percentage {
+    width:150px; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#input-button:hover {
+    background: burlywood;
+}
+#input-button{
+    margin: 20px;
+   border-radius: 5px;
+   background-color: rgb(12, 133, 12);
+   color: white;
+   font-size: large;
+}
+.element-alignment3{
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
